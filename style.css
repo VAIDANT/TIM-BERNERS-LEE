@@ -1,0 +1,73 @@
+body {
+    text-align:center;
+}
+
+#img {
+    border-radius:50%;
+    margin-top: 100px;
+}
+
+#welcome {
+    color:chartreuse;
+    background: linear-gradient(180deg, red, blue);
+    height: 800px;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+}
+
+h2 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+}
+
+h3 {
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+}
+
+#videos {
+    background: linear-gradient(180deg, red, blue);
+}
+
+a {
+    font-size:25px;
+}
+
+a:hover {
+    color:chartreuse;
+    font-size: 35px;
+}
+
+.menu {
+    font-size: 25px;
+    padding: 10px;
+    list-style: none;
+    top:0;
+    cursor: pointer;
+    background-color: #ff9100;
+    position: fixed;
+    width: 100%;
+}
+
+.links {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Pacifico', cursive;
+    text-transform: capitalize;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.head {
+    font-size:35px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: underline;
+    color: chocolate;
+    letter-spacing: 150%;
+}
